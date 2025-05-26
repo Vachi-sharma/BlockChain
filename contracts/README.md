@@ -1,6 +1,10 @@
 # 🚀 Decentralized Crowdfunding Platform
 
-![Screenshot](/contracts/Screenshot1.png)
+![Screenshot](../images/screenshot1.png)
+![Demo](../images/demo.gif)
+
+# Or with HTML for sizing
+<img src="../images/screenshot1.png" width="600" alt="Contract Interface">
 
 
 > A transparent, trustless crowdfunding platform built on Ethereum blockchain
