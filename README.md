@@ -1,11 +1,16 @@
 
 # 🚀 Decentralized Crowdfunding Platform
 
-![Screenshot](../images/screenshot1.png)
-![Demo](../images/demo.gif)
+![Screenshot](https://github.com/Vachi-sharma/BlockChainProject/raw/main/screenshot1.png)
 
-# Or with HTML for sizing
-<img src="../images/screenshot1.png" width="600" alt="Contract Interface">
+# Or with custom sizing
+<img src="https://github.com/Akshay12-hacker/BlockChainProject/raw/main/screenshot1.png" width="600" alt="Project Screenshot">
+
+# With caption
+<div align="center">
+  <img src="https://github.com/Akshay12-hacker/BlockChainProject/raw/main/screenshot1.png" width="700" alt="Crowdfunding Platform">
+  <p><em>Decentralized Crowdfunding Platform Interface</em></p>
+</div>
 
 
 > A transparent, trustless crowdfunding platform built on Ethereum blockchain
