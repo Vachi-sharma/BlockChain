@@ -1,6 +1,8 @@
 
 # 🚀 Decentralized Crowdfunding Platform
 
+# Contract Address : 0xdad679f1b296f91cd6549b89eb6f693c312bd5a8
+
 ![Screenshot](https://github.com/Vachi-sharma/BlockChain/blob/main/screenshot1.png)
 
 > A transparent, trustless crowdfunding platform built on Ethereum blockchain
