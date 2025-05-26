@@ -1,6 +1,6 @@
 # 🚀 Decentralized Crowdfunding Platform
 
-![Screenshot](/Screenshot1.png)
+![Screenshot](/contracts/Screenshot1.png)
 
 
 > A transparent, trustless crowdfunding platform built on Ethereum blockchain
