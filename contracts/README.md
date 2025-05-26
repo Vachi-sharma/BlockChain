@@ -1,5 +1,13 @@
 # 🚀 Decentralized Crowdfunding Platform
 
+![Screenshot](images/screenshot1.png)
+
+# Or with alt text and title
+![App Screenshot](images/screenshot1.png "Application Dashboard")
+
+# Resize images
+<img src="images/screenshot1.png" width="600" alt="Screenshot">
+
 
 
 > A transparent, trustless crowdfunding platform built on Ethereum blockchain
